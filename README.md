@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi! I'm Guilherme César 👋
+
+Information about me:
+
+- 💼 working on [Basis Tecnologia](https://www.basis.com.br)
+- 📫 How to reach me: guicesar029@gmail.com
 
 <!--
 **GuilhermeCesar029/GuilhermeCesar029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
