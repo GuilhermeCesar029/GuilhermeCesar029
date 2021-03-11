@@ -15,7 +15,7 @@ Information about me:
   <a href="https://github.com/GuilhermeCesar029/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCesar029&layout=demo&&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCesar029&layout=compact&&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919"
     />
   </a>
   <a href="https://github.com/GuilhermeCesar029/github-readme-stats">
@@ -27,4 +27,4 @@ Information about me:
   </a>
 </p>
 
-
+---
