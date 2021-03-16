@@ -6,8 +6,16 @@
 
 Information about me:
 
+<img 
+      width="35%" 
+      align="right"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCesar029&layout=demo&&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919"
+    />
+
 - 💼 working on [Basis Tecnologia](https://www.basis.com.br)
 - 📫 How to reach me: guicesar029@gmail.com
+
+
 ---
 
 
@@ -17,14 +25,6 @@ Information about me:
       align="center"
       src="https://github-readme-stats.vercel.app/api?username=GuilhermeCesar029&show_icons=true&hide_border_color=ffffff&theme=tokyonight"
     />
-  </a>
-  <a href="https://github.com/GuilhermeCesar029/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCesar029&layout=compact&&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919"
-    />
-  </a>
 </p>
 
 ---
