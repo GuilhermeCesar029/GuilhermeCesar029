@@ -8,10 +8,11 @@ Information about me:
 
 <img 
       width="33%" 
-      align="left"
+      align="reight"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCesar029&layout=demo&&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919"
     />
-<br>
+    
+
 - 💼 working on [Basis Tecnologia](https://www.basis.com.br)
 - 📫 How to reach me: guicesar029@gmail.com
 
