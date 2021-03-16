@@ -7,24 +7,39 @@
 Information about me:
 
 <img 
-      width="35%" 
-      align="right"
+      width="33%" 
+      align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCesar029&layout=demo&&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919"
     />
-
+<br>
 - 💼 working on [Basis Tecnologia](https://www.basis.com.br)
 - 📫 How to reach me: guicesar029@gmail.com
 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<br>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<br>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<br>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 
 ---
-
 
 <p align="center">
   <a href="https://github.com/GuilhermeCesar029/github-readme-stats">
     <img
-      align="center"
+      align="left"
       src="https://github-readme-stats.vercel.app/api?username=GuilhermeCesar029&show_icons=true&hide_border_color=ffffff&theme=tokyonight"
     />
+  </a>        
 </p>
 
----
+
