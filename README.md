@@ -15,14 +15,14 @@ Information about me:
   <a href="https://github.com/GuilhermeCesar029/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCesar029&layout=compact&&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919"
+      src="https://github-readme-stats.vercel.app/api?username=GuilhermeCesar029&show_icons=true&hide_border_color=ffffff&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/GuilhermeCesar029/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=GuilhermeCesar029&show_icons=true&hide_border_color=ffffff&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCesar029&layout=compact&&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919"
     />
   </a>
 </p>
