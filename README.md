@@ -37,7 +37,8 @@ Information about me:
 <p align="center">
   <a href="https://github.com/GuilhermeCesar029/github-readme-stats">
     <img
-      align="left"
+      width="90%"
+      align="center"
       src="https://github-readme-stats.vercel.app/api?username=GuilhermeCesar029&show_icons=true&hide_border_color=ffffff&theme=tokyonight"
     />
   </a>        
