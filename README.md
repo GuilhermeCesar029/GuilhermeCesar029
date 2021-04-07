@@ -32,16 +32,5 @@ Information about me:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 
----
-
-<p align="center">
-  <a href="https://github.com/GuilhermeCesar029/github-readme-stats">
-    <img
-      width="90%"
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=GuilhermeCesar029&show_icons=true&hide_border_color=ffffff&theme=tokyonight"
-    />
-  </a>        
-</p>
 
 
