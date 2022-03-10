@@ -8,7 +8,7 @@ Information about me:
 
     
 
-- 💼 working on [Dados Tech](https://dados.tech)
+- 💼 working on [Vitrine Retail](https://vitrineretail.com)
 - 📫 How to reach me: guicesar029@gmail.com
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
