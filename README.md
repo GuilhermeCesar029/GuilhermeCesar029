@@ -8,7 +8,7 @@ Information about me:
 
     
 
-- 💼 working on [Vitrine Retail](https://vitrineretail.com)
+- 💼 working on [Squadra Digital](https://www.squadra.com.br/)
 - 📫 How to reach me: guicesar029@gmail.com
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
